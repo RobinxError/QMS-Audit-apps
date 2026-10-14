@@ -1,0 +1,18 @@
+[
+  {
+    "id": "share-ca-tech-audit",
+    "token": "tok_ca_tech_audit_2026",
+    "name": "C&A Buyer Technical Audit Observer Link",
+    "assignedRole": "Viewer",
+    "isPasswordProtected": true,
+    "passwordHash": "f2f7a65aff78e3116b834b1044f7cb3faab9b1f90a4e3827786fc3486b5dac79d74c8814bbe628ad13647d1ae849a688ad20f06f9b88b082f5af37b49b866d39",
+    "salt": "c9eba1186a5081c7a3e491d3476192a2",
+    "expiresAt": "2026-11-13T09:49:30.048Z",
+    "maxUses": 25,
+    "useCount": 4,
+    "status": "Active",
+    "createdBy": "Engr. Robiul Islam (Admin)",
+    "createdAt": "2026-10-12T09:49:30.048Z",
+    "lastAccessedAt": "2026-10-14T09:50:04.871Z"
+  }
+]

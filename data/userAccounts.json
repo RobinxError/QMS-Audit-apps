@@ -1,0 +1,54 @@
+[
+  {
+    "id": "usr-admin-01",
+    "username": "admin",
+    "email": "admin@apexsweater.com",
+    "fullName": "Engr. Robiul Islam",
+    "role": "Admin",
+    "department": "Quality Assurance & Compliance",
+    "passwordHash": "2f6c7fc6fce11ba554761b9f833a8569c935653b9f1f21b172483f976af0da2c2399a6eb0f566581f4d81d907430e5d50a3f3237c367cbada7d8e4a942f6560a",
+    "salt": "c0f1d57fbb1d6213fa54cf3e795da5b8",
+    "status": "Active",
+    "createdAt": "2026-01-10T08:00:00Z",
+    "lastLoginAt": "2026-10-14T10:08:09.304Z"
+  },
+  {
+    "id": "usr-qms-01",
+    "username": "qms.manager",
+    "email": "tanvir.qms@apexsweater.com",
+    "fullName": "Engr. Tanvir Ahmed",
+    "role": "QMS Manager",
+    "department": "Quality Management System",
+    "passwordHash": "755f4a27c3b26da4b8b380e588fe300a807c909648a9bcce1bd1f357a69b5066a72fd4c14e06ae9427b59fad9911e880ab941eaecf7941e110e8aff5aba2e274",
+    "salt": "e9ac4897fe50b35f9f78cd56722ee17c",
+    "status": "Active",
+    "createdAt": "2026-01-15T09:00:00Z",
+    "lastLoginAt": "2026-10-14T10:08:17.528Z"
+  },
+  {
+    "id": "usr-auditor-01",
+    "username": "auditor",
+    "email": "shahidul.qc@apexsweater.com",
+    "fullName": "Md. Shahidul Alam",
+    "role": "Auditor",
+    "department": "Floor Quality & Audit Execution",
+    "passwordHash": "eccab9e59213edc09120f81d4257c258cf08d4ab5ff95cfb6af3c1eb444ca81ffdc79641fc1cc70bfadcb7616df1b69bee8a0f5159c7ae99edb1ed06d0be8859",
+    "salt": "8ee2af7583376d4139ebff0eed3f0b46",
+    "status": "Active",
+    "createdAt": "2026-02-01T10:00:00Z",
+    "lastLoginAt": "2026-10-14T10:08:17.550Z"
+  },
+  {
+    "id": "usr-viewer-01",
+    "username": "viewer",
+    "email": "buyer.rep@ca-inspection.com",
+    "fullName": "C&A / Buyer Delegation Rep",
+    "role": "Viewer",
+    "department": "Buyer Technical Audit & Sourcing",
+    "passwordHash": "c1c8a6d4b24ae4496eeaccf894490f3d1a3c70ac0b81fedabcaa568973f9474f64a093db9368e0b953f7c82bce1596301459cedc869b1d6650e078f86a129cf5",
+    "salt": "b46826c5a07b56700ac3b2963e31d166",
+    "status": "Active",
+    "createdAt": "2026-03-01T11:00:00Z",
+    "lastLoginAt": "2026-10-14T10:08:17.568Z"
+  }
+]

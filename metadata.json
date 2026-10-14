@@ -1,0 +1,6 @@
+{
+  "name": "Sweater Factory Audit Management System",
+  "description": "Comprehensive Buyer Compliance & ISO 9001:2015 Audit Management System for Bangladeshi sweater manufacturing factories with checklist extraction, 19 factory sections, automated scoring, photo evidence, and CAPA tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,18 @@
+{
+  "factoryName": "Apex Sweater Mills Limited",
+  "factoryLogo": "data:image/svg+xml;utf8,<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 60\" width=\"240\" height=\"60\"><rect width=\"240\" height=\"60\" rx=\"8\" fill=\"%230f172a\"/><g transform=\"translate(12, 10)\"><path d=\"M20 2L36 12V30L20 40L4 30V12L20 2Z\" fill=\"%231e3a8a\" stroke=\"%2338bdf8\" stroke-width=\"2\"/><path d=\"M20 8L30 15V26L20 33L10 26V15L20 8Z\" fill=\"%230284c7\"/><path d=\"M14 18H26M14 24H26M20 12V30\" stroke=\"%23f8fafc\" stroke-width=\"1.8\" stroke-linecap=\"round\"/></g><text x=\"60\" y=\"26\" font-family=\"system-ui, -apple-system, sans-serif\" font-weight=\"800\" font-size=\"16\" fill=\"%23ffffff\" letter-spacing=\"-0.5\">APEX SWEATER</text><text x=\"60\" y=\"42\" font-family=\"system-ui, -apple-system, sans-serif\" font-weight=\"600\" font-size=\"10.5\" fill=\"%2338bdf8\" letter-spacing=\"1.5\">MILLS LIMITED • BANGLADESH</text></svg>",
+  "factoryAddress": "Plot 42-48, Industrial Estate, Board Bazar, Gazipur 1704, Bangladesh",
+  "registrationNumber": "BGMEA-REG-20419 / BKMEA-0891",
+  "taxIdOrTin": "TIN-8931-4029-1029",
+  "contactPhone": "+880 2-9298412 / +880 1711-000000",
+  "contactEmail": "compliance@apexsweater.com",
+  "website": "https://www.apexsweater-bd.com",
+  "headOfQMS": "Engr. Robiul Islam (Lead QMS Auditor & DGM Quality)",
+  "generalManager": "Syed Farhad Hossain (Executive Director)",
+  "tagline": "Excellence in Export Knitwear & Sustainable Quality Management",
+  "establishedYear": "2008",
+  "totalWorkforce": "1,850 Workers • 450 Computerized Flat Knitting Machines",
+  "isoCertifications": "ISO 9001:2015, OEKO-TEX Standard 100, GOTS, WRAP Gold, Sedex SMETA",
+  "demoModeEnabled": true,
+  "updatedAt": "2026-10-14T10:07:58.728Z"
+}
